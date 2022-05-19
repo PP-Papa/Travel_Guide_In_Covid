@@ -2,7 +2,7 @@
 
 ## Background
 <b>Travel Guide in Covid</b>, is an web application that answers your travel (both international and US domestic) and covid related questions.
-This is the group project for CIS550 course of Upenn MCIT program, and source code is not visible to the public. UI Demo only.
+This is the course project of Upenn MCIT program, and source code is not visible to the public. UI Demo only.
 
 For interested employer, please contact me personally for more details.
 
